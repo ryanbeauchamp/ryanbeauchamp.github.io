@@ -1,0 +1,22 @@
+a {
+    color: black !important;
+}
+
+body {
+    font-family: Futura, serif; 
+    color: white;
+}
+
+#logo{
+    width: 50%;
+    height: auto;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#last-section {
+    margin: 10px;
+}
