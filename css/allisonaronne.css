@@ -2,9 +2,13 @@ a {
     color: black !important;
 }
 
-body {
+@font-face {
     font-family: Brandon Grotesque, serif; 
     src: url('Brandon_light.otf'); 
+}
+
+body {
+    font-family: Brandon Grotesque, serif;
     color: white;
 }
 
