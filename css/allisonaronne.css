@@ -3,7 +3,8 @@ a {
 }
 
 body {
-    font-family: Futura, serif; 
+    font-family: Brandon Grotesque, serif; 
+    src: url('Brandon_light.otf'); 
     color: white;
 }
 
@@ -19,4 +20,5 @@ body {
 
 #last-section {
     margin: 10px;
+    font-size: 18px;
 }
